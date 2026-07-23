@@ -1,13 +1,12 @@
 # Fraud Detection
 
 ## Objective
-
-Create a predictive model to detect fraudulent transactions using machine learning.
+transactions using machine learning. The final model reduce more than **90% of fraudulent** transactions and help business owners make decisions based on the trade-off between reducing fraud and how many customers may be lost.
 
 ## Project Highlights
 
 - Built a fraud detection model with CatBoost.
-- Achieved a strong Gini score of approximately 80%.
+- Achieved a strong Gini score of approximately **over 80%**.
 - Applied explainable AI techniques using SHAP for feature interpretation.
 - Included scoreband analysis for real-world risk segmentation and decision support.
 
